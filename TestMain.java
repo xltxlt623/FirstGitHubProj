@@ -97,7 +97,7 @@ public class TestMain {
 		int result4=0;
 		//判断登录结果
 		if (login>0) {
-			System.out.println("-------恭喜您登陆成功-------");
+			System.out.println("-------恭喜您登陆成功------123456-");
 			System.out.println("-------您的基本信息：-------");
 			//实现查询当前主人信息
 			ResultSet rs=odao.findByMonster(o);
